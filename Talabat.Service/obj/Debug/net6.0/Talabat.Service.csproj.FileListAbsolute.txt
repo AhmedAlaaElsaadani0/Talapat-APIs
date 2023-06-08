@@ -1,0 +1,30 @@
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\8. ASP.NET Core Web API\TalabatAPI\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+C:\Users\ahme0\Downloads\Ass\TalabatAPI - 5\TalabatAPI - 5\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
